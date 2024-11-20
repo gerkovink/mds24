@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "mywork.html",
+    "href": "mywork.html",
+    "title": "My Work",
+    "section": "",
+    "text": "Welcome to my work page! Here you can find a list of my work experience and education.\n\nPublications\nThis year Hanne Oberman and I published a paper on the evaluation of imputation routines. You should read it! You may find it here.\nAlso, together with Mingyang Cai and Stef van Buuren, we published another paper. Find it yourself."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Gerko Vink",
+    "section": "",
+    "text": "Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Gerko Vink",
+    "section": "Education",
+    "text": "Education\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Gerko Vink",
+    "section": "Experience",
+    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
+  }
+]

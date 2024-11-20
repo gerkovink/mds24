@@ -1,0 +1,10 @@
+---
+title: "My Work"
+---
+
+Welcome to my work page! Here you can find a list of my work experience and education.
+
+# Publications
+This year Hanne Oberman and I published a paper on the evaluation of imputation routines. You should read it! You may find it [here](https://onlinelibrary.wiley.com/doi/full/10.1002/bimj.202200107).
+
+Also, together with Mingyang Cai and Stef van Buuren, we published another paper. Find it yourself. 
